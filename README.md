@@ -257,7 +257,7 @@ After building this project you will understand:
 
 ## Author
 
-Sonia Thakur
+V Manohar
 
 GitHub:
 https://github.com/VManohar1290
