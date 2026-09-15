@@ -260,10 +260,10 @@ After building this project you will understand:
 Sonia Thakur
 
 GitHub:
-https://github.com/Sonia068
+https://github.com/VManohar1290
 
 LinkedIn:
-https://www.linkedin.com/in/sonia-thakur-6ab93b349/
+https://www.linkedin.com/in/v-manohar1290/
 
 ---
 
